@@ -1,0 +1,10 @@
+﻿開啟Anaconda Navigator
+點選Enviorments
+下面點選Create，命名py36，選Python3.6，點選Create
+開啟Anaconda Prompt，輸入以下指令
+conda install -c conda-forge opencv
+conda install -c conda-forge keras
+conda install -c conda-forge tensorflow
+
+改變Anaconda Jupyter Notebook的預設瀏覽器
+https://nodoubting.blogspot.com/2017/12/jupyter-notebook.html
